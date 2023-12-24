@@ -1,7 +1,7 @@
 # Portfolio-Project---Mixed-Messages
 
 My Portfolio Project from Codecademy's Back-End Engineer Career Path
-[Tyrese Haliburton]!(https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png)
+![Tyrese Haliburton](https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png)
 
 ## About
 
@@ -24,5 +24,5 @@ The goal of this portfolio project was to generate randomly chosen messages to t
 
 ## How To Run
 
-Using [Node](https://nodejs.org/en), run the provided script.js, by typing *node /path/to/folder/script.js* 
+Using [Node,](https://nodejs.org/en) run the provided script.js, by typing *node /path/to/folder/script.js* 
 
