@@ -2,6 +2,7 @@
 
 My Portfolio Project from Codecademy's Back-End Engineer Career Path
 ![Tyrese Haliburton](https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png)
+*Tyrese Haliburton of the Indiana Pacers NBA basketball team*
 
 ## About
 
